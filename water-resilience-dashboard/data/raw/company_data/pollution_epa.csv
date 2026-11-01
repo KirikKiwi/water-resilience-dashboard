@@ -1,0 +1,85 @@
+company,year,field,value,unit,source_id,note
+# EA pollution data (England). Absolute = category 1-3 all-asset counts (EA annex).
+# per_10k_km = EA sewerage-only EPA metric (published per-company only).
+# EPA calendar year mapped to nearest financial year (basis differs slightly from FY).
+Anglian Water,2020-21,pollution_incidents,232,count,EA-ANNEX,EPA cal-yr 2020 (cat 1-3 all assets)
+Anglian Water,2021-22,pollution_incidents,280,count,EA-ANNEX,EPA cal-yr 2021
+Anglian Water,2022-23,pollution_incidents,312,count,EA-ANNEX,EPA cal-yr 2022
+Anglian Water,2023-24,pollution_incidents,338,count,EA-ANNEX,EPA cal-yr 2023
+Anglian Water,2024-25,pollution_incidents,482,count,EA-ANNEX,EPA cal-yr 2024
+Anglian Water,2024-25,epa_star_rating,2,star,EA-EPR2024,2024 assessment
+Northumbrian Water,2020-21,pollution_incidents,62,count,EA-ANNEX,EPA cal-yr 2020
+Northumbrian Water,2021-22,pollution_incidents,91,count,EA-ANNEX,EPA cal-yr 2021
+Northumbrian Water,2022-23,pollution_incidents,81,count,EA-ANNEX,EPA cal-yr 2022
+Northumbrian Water,2023-24,pollution_incidents,112,count,EA-ANNEX,EPA cal-yr 2023
+Northumbrian Water,2024-25,pollution_incidents,134,count,EA-ANNEX,EPA cal-yr 2024
+Northumbrian Water,2024-25,epa_star_rating,2,star,EA-EPR2024,2024 assessment
+Severn Trent Water,2020-21,pollution_incidents,232,count,EA-ANNEX,EPA cal-yr 2020
+Severn Trent Water,2021-22,pollution_incidents,249,count,EA-ANNEX,EPA cal-yr 2021
+Severn Trent Water,2022-23,pollution_incidents,259,count,EA-ANNEX,EPA cal-yr 2022
+Severn Trent Water,2023-24,pollution_incidents,278,count,EA-ANNEX,EPA cal-yr 2023
+Severn Trent Water,2024-25,pollution_incidents,300,count,EA-ANNEX,EPA cal-yr 2024
+Severn Trent Water,2020-21,pollution_per_10k_km,21,per10k,ST-EPA,EA sewerage metric; Green
+Severn Trent Water,2021-22,pollution_per_10k_km,22,per10k,ST-EPA,EA sewerage metric; Green
+Severn Trent Water,2022-23,pollution_per_10k_km,21,per10k,ST-EPA,EA sewerage metric; Green
+Severn Trent Water,2023-24,pollution_per_10k_km,26,per10k,ST-EPA,EA sewerage metric; Amber
+Severn Trent Water,2024-25,pollution_per_10k_km,29,per10k,ST-EPA,EA sewerage metric; Amber
+Severn Trent Water,2024-25,epa_star_rating,4,star,EA-EPR2024,2024 assessment (industry leading)
+Southern Water,2020-21,pollution_incidents,411,count,EA-ANNEX,EPA cal-yr 2020
+Southern Water,2021-22,pollution_incidents,393,count,EA-ANNEX,EPA cal-yr 2021
+Southern Water,2022-23,pollution_incidents,393,count,EA-ANNEX,EPA cal-yr 2022
+Southern Water,2023-24,pollution_incidents,251,count,EA-ANNEX,EPA cal-yr 2023
+Southern Water,2024-25,pollution_incidents,332,count,EA-ANNEX,EPA cal-yr 2024
+Southern Water,2024-25,epa_star_rating,2,star,EA-EPR2024,2024 assessment
+South West Water,2020-21,pollution_incidents,235,count,EA-ANNEX,EPA cal-yr 2020
+South West Water,2021-22,pollution_incidents,159,count,EA-ANNEX,EPA cal-yr 2021
+South West Water,2022-23,pollution_incidents,136,count,EA-ANNEX,EPA cal-yr 2022
+South West Water,2023-24,pollution_incidents,223,count,EA-ANNEX,EPA cal-yr 2023
+South West Water,2024-25,pollution_incidents,209,count,EA-ANNEX,EPA cal-yr 2024
+South West Water,2024-25,pollution_per_10k_km,108,per10k,EA-EPR2024,EA sewerage metric 2024 only
+South West Water,2024-25,epa_star_rating,2,star,EA-EPR2024,2024 assessment
+Thames Water,2020-21,pollution_incidents,331,count,EA-ANNEX,EPA cal-yr 2020
+Thames Water,2021-22,pollution_incidents,304,count,EA-ANNEX,EPA cal-yr 2021
+Thames Water,2022-23,pollution_incidents,397,count,EA-ANNEX,EPA cal-yr 2022
+Thames Water,2023-24,pollution_incidents,393,count,EA-ANNEX,EPA cal-yr 2023
+Thames Water,2024-25,pollution_incidents,523,count,EA-ANNEX,EPA cal-yr 2024
+Thames Water,2024-25,epa_star_rating,1,star,EA-EPR2024,2024 assessment (worst in sector)
+United Utilities,2020-21,pollution_incidents,145,count,EA-ANNEX,EPA cal-yr 2020
+United Utilities,2021-22,pollution_incidents,145,count,EA-ANNEX,EPA cal-yr 2021
+United Utilities,2022-23,pollution_incidents,157,count,EA-ANNEX,EPA cal-yr 2022
+United Utilities,2023-24,pollution_incidents,243,count,EA-ANNEX,EPA cal-yr 2023
+United Utilities,2024-25,pollution_incidents,376,count,EA-ANNEX,EPA cal-yr 2024
+United Utilities,2024-25,epa_star_rating,2,star,EA-EPR2024,2024 assessment
+Wessex Water,2020-21,pollution_incidents,120,count,EA-ANNEX,EPA cal-yr 2020
+Wessex Water,2021-22,pollution_incidents,101,count,EA-ANNEX,EPA cal-yr 2021
+Wessex Water,2022-23,pollution_incidents,146,count,EA-ANNEX,EPA cal-yr 2022
+Wessex Water,2023-24,pollution_incidents,162,count,EA-ANNEX,EPA cal-yr 2023
+Wessex Water,2024-25,pollution_incidents,248,count,EA-ANNEX,EPA cal-yr 2024
+Wessex Water,2024-25,epa_star_rating,2,star,EA-EPR2024,2024 assessment (matches 72pct rise reported)
+Yorkshire Water,2020-21,pollution_incidents,151,count,EA-ANNEX,EPA cal-yr 2020
+Yorkshire Water,2021-22,pollution_incidents,161,count,EA-ANNEX,EPA cal-yr 2021
+Yorkshire Water,2022-23,pollution_incidents,145,count,EA-ANNEX,EPA cal-yr 2022
+Yorkshire Water,2023-24,pollution_incidents,174,count,EA-ANNEX,EPA cal-yr 2023
+Yorkshire Water,2024-25,pollution_incidents,197,count,EA-ANNEX,EPA cal-yr 2024
+Yorkshire Water,2024-25,epa_star_rating,2,star,EA-EPR2024,2024 assessment
+Dwr Cymru (Welsh Water),2020-21,pollution_incidents,142,count,NRW-2024,EPA cal-yr 2020 (cat 1-3)
+Dwr Cymru (Welsh Water),2021-22,pollution_incidents,163,count,NRW-2024,EPA cal-yr 2021
+Dwr Cymru (Welsh Water),2022-23,pollution_incidents,134,count,NRW-2024,EPA cal-yr 2022
+Dwr Cymru (Welsh Water),2023-24,pollution_incidents,132,count,NRW-2024,EPA cal-yr 2023
+Dwr Cymru (Welsh Water),2024-25,pollution_incidents,155,count,NRW-2024,EPA cal-yr 2024
+Dwr Cymru (Welsh Water),2020-21,pollution_per_10k_km,21,per10k,NRW-2024,NRW sewerage metric
+Dwr Cymru (Welsh Water),2021-22,pollution_per_10k_km,23,per10k,NRW-2024,NRW sewerage metric
+Dwr Cymru (Welsh Water),2022-23,pollution_per_10k_km,25,per10k,NRW-2024,NRW sewerage metric
+Dwr Cymru (Welsh Water),2023-24,pollution_per_10k_km,30,per10k,NRW-2024,NRW sewerage metric
+Dwr Cymru (Welsh Water),2024-25,pollution_per_10k_km,36,per10k,NRW-2024,ten-year high
+Hafren Dyfrdwy,2020-21,pollution_incidents,6,count,NRW-2024,EPA cal-yr 2020 (cat 1-3)
+Hafren Dyfrdwy,2021-22,pollution_incidents,8,count,NRW-2024,EPA cal-yr 2021
+Hafren Dyfrdwy,2022-23,pollution_incidents,4,count,NRW-2024,EPA cal-yr 2022
+Hafren Dyfrdwy,2023-24,pollution_incidents,4,count,NRW-2024,EPA cal-yr 2023
+Hafren Dyfrdwy,2024-25,pollution_incidents,5,count,NRW-2024,EPA cal-yr 2024
+Hafren Dyfrdwy,2020-21,pollution_per_10k_km,100,per10k,NRW-2024,sewer length 502 km; small base - volatile
+Hafren Dyfrdwy,2021-22,pollution_per_10k_km,40,per10k,NRW-2024,small base - volatile
+Hafren Dyfrdwy,2022-23,pollution_per_10k_km,40,per10k,NRW-2024,small base - volatile
+Hafren Dyfrdwy,2023-24,pollution_per_10k_km,20,per10k,NRW-2024,small base - volatile
+Hafren Dyfrdwy,2024-25,pollution_per_10k_km,40,per10k,NRW-2024,small base - volatile
+# All 11 companies now have a 5-year pollution series.

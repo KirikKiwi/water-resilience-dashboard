@@ -1,0 +1,12 @@
+company,population_served_m,basis,source_id
+Thames Water,16.0,people served (customers),TW-AR2025
+Severn Trent Water,9.0,people served (drinking water; 4.7m households & businesses),ST-AR2025
+United Utilities,8.0,people served,UUW-AR2025
+Anglian Water,7.0,people served,AW-AIR2025
+Yorkshire Water,5.5,customers served,YW-ARFS2025
+Southern Water,4.8,customers served (water & wastewater),SRN-AR2026
+Northumbrian Water,4.8,people served (2.7m North East + 2.1m Essex & Suffolk),NW-APR2026
+Dwr Cymru (Welsh Water),3.1,people served (~1.5m households),DC-AR2026
+Wessex Water,2.8,customers served,WX-PROFILE
+South West Water,2.8,people served (nearly 3m),SWW-FS2025
+Hafren Dyfrdwy,0.25,connections served (109468 households & businesses),HD-APR2025

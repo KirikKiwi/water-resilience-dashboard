@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: water-resilience-dashboard
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
+    pullRequestPreviewsEnabled: false

@@ -1,0 +1,383 @@
+company,year,field,value,unit,source_id,note
+Anglian Water,2023-24,rcv,10675.7,GBPm,MFR2324,WaSC
+Anglian Water,2023-24,regulatory_gearing,68.9,%,MFR2324,WaSC
+Anglian Water,2023-24,ffo_net_debt,7.7,%,MFR2324,WaSC
+Anglian Water,2023-24,aicr,1.29,x,MFR2324,WaSC
+Anglian Water,2023-24,rore,-3.5,%,MFR2324,WaSC
+Anglian Water,2023-24,dividend_yield,2.4,%,MFR2324,WaSC
+Anglian Water,2023-24,derivatives_mtm_pct_rcv,6.1,%,MFR2324,WaSC
+Anglian Water,2023-24,credit_rating,A- Negative,text,MFR2324,WaSC
+Dwr Cymru (Welsh Water),2023-24,rcv,7475.7,GBPm,MFR2324,WaSC
+Dwr Cymru (Welsh Water),2023-24,regulatory_gearing,61.1,%,MFR2324,WaSC
+Dwr Cymru (Welsh Water),2023-24,ffo_net_debt,5.4,%,MFR2324,WaSC
+Dwr Cymru (Welsh Water),2023-24,aicr,0.65,x,MFR2324,WaSC
+Dwr Cymru (Welsh Water),2023-24,rore,-0.7,%,MFR2324,WaSC
+Dwr Cymru (Welsh Water),2023-24,dividend_yield,0.0,%,MFR2324,WaSC
+Dwr Cymru (Welsh Water),2023-24,derivatives_mtm_pct_rcv,5.9,%,MFR2324,WaSC
+Dwr Cymru (Welsh Water),2023-24,credit_rating,A- Negative,text,MFR2324,WaSC
+Hafren Dyfrdwy,2023-24,rcv,118.0,GBPm,MFR2324,WaSC
+Hafren Dyfrdwy,2023-24,regulatory_gearing,60.3,%,MFR2324,WaSC
+Hafren Dyfrdwy,2023-24,ffo_net_debt,-1.6,%,MFR2324,WaSC
+Hafren Dyfrdwy,2023-24,aicr,-2.17,x,MFR2324,WaSC
+Hafren Dyfrdwy,2023-24,rore,21.1,%,MFR2324,WaSC
+Hafren Dyfrdwy,2023-24,dividend_yield,0.0,%,MFR2324,WaSC
+Hafren Dyfrdwy,2023-24,derivatives_mtm_pct_rcv,0.0,%,MFR2324,WaSC
+Hafren Dyfrdwy,2023-24,credit_rating,BBB+ Stable,text,MFR2324,WaSC
+Northumbrian Water,2023-24,rcv,5442.7,GBPm,MFR2324,WaSC
+Northumbrian Water,2023-24,regulatory_gearing,70.2,%,MFR2324,WaSC
+Northumbrian Water,2023-24,ffo_net_debt,6.2,%,MFR2324,WaSC
+Northumbrian Water,2023-24,aicr,0.77,x,MFR2324,WaSC
+Northumbrian Water,2023-24,rore,5.7,%,MFR2324,WaSC
+Northumbrian Water,2023-24,dividend_yield,4.1,%,MFR2324,WaSC
+Northumbrian Water,2023-24,derivatives_mtm_pct_rcv,1.9,%,MFR2324,WaSC
+Northumbrian Water,2023-24,credit_rating,Baa1/BBB+ Stable,text,MFR2324,WaSC
+Severn Trent Water,2023-24,rcv,11885.6,GBPm,MFR2324,WaSC
+Severn Trent Water,2023-24,regulatory_gearing,61.0,%,MFR2324,WaSC
+Severn Trent Water,2023-24,ffo_net_debt,8.0,%,MFR2324,WaSC
+Severn Trent Water,2023-24,aicr,0.94,x,MFR2324,WaSC
+Severn Trent Water,2023-24,rore,8.5,%,MFR2324,WaSC
+Severn Trent Water,2023-24,dividend_yield,6.5,%,MFR2324,WaSC
+Severn Trent Water,2023-24,derivatives_mtm_pct_rcv,-0.3,%,MFR2324,WaSC
+Severn Trent Water,2023-24,credit_rating,Baa1/BBB+ Stable,text,MFR2324,WaSC
+South West Water,2023-24,rcv,4837.8,GBPm,MFR2324,WaSC
+South West Water,2023-24,regulatory_gearing,68.3,%,MFR2324,WaSC
+South West Water,2023-24,ffo_net_debt,6.5,%,MFR2324,WaSC
+South West Water,2023-24,aicr,0.74,x,MFR2324,WaSC
+South West Water,2023-24,dividend_yield,2.9,%,MFR2324,WaSC
+South West Water,2023-24,derivatives_mtm_pct_rcv,-0.6,%,MFR2324,WaSC
+Southern Water,2023-24,rcv,6787.6,GBPm,MFR2324,WaSC
+Southern Water,2023-24,regulatory_gearing,71.6,%,MFR2324,WaSC
+Southern Water,2023-24,ffo_net_debt,3.6,%,MFR2324,WaSC
+Southern Water,2023-24,aicr,-0.89,x,MFR2324,WaSC
+Southern Water,2023-24,rore,-8.4,%,MFR2324,WaSC
+Southern Water,2023-24,dividend_yield,0.0,%,MFR2324,WaSC
+Southern Water,2023-24,derivatives_mtm_pct_rcv,23.1,%,MFR2324,WaSC
+Southern Water,2023-24,credit_rating,Baa3 Stable,text,MFR2324,WaSC
+Thames Water,2023-24,rcv,19946.8,GBPm,MFR2324,WaSC
+Thames Water,2023-24,regulatory_gearing,81.3,%,MFR2324,WaSC
+Thames Water,2023-24,ffo_net_debt,6.2,%,MFR2324,WaSC
+Thames Water,2023-24,aicr,1.25,x,MFR2324,WaSC
+Thames Water,2023-24,rore,-1.4,%,MFR2324,WaSC
+Thames Water,2023-24,dividend_yield,5.2,%,MFR2324,WaSC
+Thames Water,2023-24,derivatives_mtm_pct_rcv,1.4,%,MFR2324,WaSC
+Thames Water,2023-24,credit_rating,BBB Credit Watch Negative,text,MFR2324,WaSC
+United Utilities,2023-24,rcv,13969.1,GBPm,MFR2324,WaSC
+United Utilities,2023-24,regulatory_gearing,67.0,%,MFR2324,WaSC
+United Utilities,2023-24,ffo_net_debt,8.4,%,MFR2324,WaSC
+United Utilities,2023-24,aicr,1.3,x,MFR2324,WaSC
+United Utilities,2023-24,rore,8.4,%,MFR2324,WaSC
+United Utilities,2023-24,dividend_yield,4.1,%,MFR2324,WaSC
+United Utilities,2023-24,derivatives_mtm_pct_rcv,-0.7,%,MFR2324,WaSC
+United Utilities,2023-24,credit_rating,BBB+ Stable,text,MFR2324,WaSC
+Wessex Water,2023-24,rcv,4305.0,GBPm,MFR2324,WaSC
+Wessex Water,2023-24,regulatory_gearing,68.8,%,MFR2324,WaSC
+Wessex Water,2023-24,ffo_net_debt,5.5,%,MFR2324,WaSC
+Wessex Water,2023-24,aicr,0.73,x,MFR2324,WaSC
+Wessex Water,2023-24,rore,3.8,%,MFR2324,WaSC
+Wessex Water,2023-24,dividend_yield,5.0,%,MFR2324,WaSC
+Wessex Water,2023-24,derivatives_mtm_pct_rcv,0.0,%,MFR2324,WaSC
+Wessex Water,2023-24,credit_rating,Baa1/BBB+ Stable,text,MFR2324,WaSC
+Yorkshire Water,2023-24,rcv,9132.2,GBPm,MFR2324,WaSC
+Yorkshire Water,2023-24,regulatory_gearing,68.6,%,MFR2324,WaSC
+Yorkshire Water,2023-24,ffo_net_debt,8.4,%,MFR2324,WaSC
+Yorkshire Water,2023-24,aicr,2.47,x,MFR2324,WaSC
+Yorkshire Water,2023-24,rore,6.2,%,MFR2324,WaSC
+Yorkshire Water,2023-24,dividend_yield,2.9,%,MFR2324,WaSC
+Yorkshire Water,2023-24,derivatives_mtm_pct_rcv,19.5,%,MFR2324,WaSC
+Yorkshire Water,2023-24,credit_rating,Baa2 Stable,text,MFR2324,WaSC
+Affinity Water,2023-24,rcv,1851.1,GBPm,MFR2324,WoC
+Affinity Water,2023-24,regulatory_gearing,75.2,%,MFR2324,WoC
+Affinity Water,2023-24,ffo_net_debt,4.6,%,MFR2324,WoC
+Affinity Water,2023-24,aicr,0.25,x,MFR2324,WoC
+Affinity Water,2023-24,rore,4.9,%,MFR2324,WoC
+Affinity Water,2023-24,dividend_yield,0.0,%,MFR2324,WoC
+Affinity Water,2023-24,derivatives_mtm_pct_rcv,0.2,%,MFR2324,WoC
+Affinity Water,2023-24,credit_rating,BBB+ Negative,text,MFR2324,WoC
+South East Water,2023-24,rcv,1736.1,GBPm,MFR2324,WoC
+South East Water,2023-24,regulatory_gearing,77.8,%,MFR2324,WoC
+South East Water,2023-24,ffo_net_debt,4.6,%,MFR2324,WoC
+South East Water,2023-24,aicr,0.92,x,MFR2324,WoC
+South East Water,2023-24,rore,-3.1,%,MFR2324,WoC
+South East Water,2023-24,dividend_yield,0.6,%,MFR2324,WoC
+South East Water,2023-24,derivatives_mtm_pct_rcv,0.0,%,MFR2324,WoC
+South East Water,2023-24,credit_rating,BBB Negative,text,MFR2324,WoC
+South Staffs Water,2023-24,rcv,540.5,GBPm,MFR2324,WoC
+South Staffs Water,2023-24,regulatory_gearing,68.7,%,MFR2324,WoC
+South Staffs Water,2023-24,ffo_net_debt,11.3,%,MFR2324,WoC
+South Staffs Water,2023-24,aicr,1.44,x,MFR2324,WoC
+South Staffs Water,2023-24,rore,2.0,%,MFR2324,WoC
+South Staffs Water,2023-24,dividend_yield,3.1,%,MFR2324,WoC
+South Staffs Water,2023-24,derivatives_mtm_pct_rcv,-0.2,%,MFR2324,WoC
+South Staffs Water,2023-24,credit_rating,Baa2 Stable,text,MFR2324,WoC
+Portsmouth Water,2023-24,rcv,255.7,GBPm,MFR2324,WoC
+Portsmouth Water,2023-24,regulatory_gearing,50.0,%,MFR2324,WoC
+Portsmouth Water,2023-24,ffo_net_debt,8.1,%,MFR2324,WoC
+Portsmouth Water,2023-24,aicr,1.1,x,MFR2324,WoC
+Portsmouth Water,2023-24,rore,-3.3,%,MFR2324,WoC
+Portsmouth Water,2023-24,dividend_yield,1.8,%,MFR2324,WoC
+Portsmouth Water,2023-24,derivatives_mtm_pct_rcv,0.6,%,MFR2324,WoC
+Portsmouth Water,2023-24,credit_rating,Baa2 Stable,text,MFR2324,WoC
+SES Water,2023-24,rcv,347.4,GBPm,MFR2324,WoC
+SES Water,2023-24,regulatory_gearing,79.1,%,MFR2324,WoC
+SES Water,2023-24,ffo_net_debt,3.7,%,MFR2324,WoC
+SES Water,2023-24,aicr,-0.38,x,MFR2324,WoC
+SES Water,2023-24,rore,-4.3,%,MFR2324,WoC
+SES Water,2023-24,dividend_yield,0.0,%,MFR2324,WoC
+SES Water,2023-24,derivatives_mtm_pct_rcv,0.0,%,MFR2324,WoC
+SES Water,2023-24,credit_rating,Baa2 Positive,text,MFR2324,WoC
+Thames Water,2024-25,rcv,21008.0,GBPm,MFR2425,WaSC
+Thames Water,2024-25,regulatory_gearing,84.5,%,MFR2425,WaSC
+Thames Water,2024-25,ffo_net_debt,4.4,%,MFR2425,WaSC
+Thames Water,2024-25,aicr,0.61,x,MFR2425,WaSC
+Thames Water,2024-25,rore,-12.64,%,MFR2425,WaSC
+Thames Water,2024-25,dividend_yield,0.0,%,MFR2425,WaSC
+Thames Water,2024-25,derivatives_mtm_pct_rcv,6.3,%,MFR2425,WaSC
+Thames Water,2024-25,credit_rating,Caa3 Stable,text,MFR2425,WaSC
+United Utilities,2024-25,rcv,15020.0,GBPm,MFR2425,WaSC
+United Utilities,2024-25,regulatory_gearing,65.8,%,MFR2425,WaSC
+United Utilities,2024-25,ffo_net_debt,9.1,%,MFR2425,WaSC
+United Utilities,2024-25,aicr,1.56,x,MFR2425,WaSC
+United Utilities,2024-25,rore,1.05,%,MFR2425,WaSC
+United Utilities,2024-25,dividend_yield,3.8,%,MFR2425,WaSC
+United Utilities,2024-25,derivatives_mtm_pct_rcv,-0.3,%,MFR2425,WaSC
+United Utilities,2024-25,credit_rating,BBB+/Baa1 Stable,text,MFR2425,WaSC
+Severn Trent Water,2024-25,rcv,13518.0,GBPm,MFR2425,WaSC
+Severn Trent Water,2024-25,regulatory_gearing,62.7,%,MFR2425,WaSC
+Severn Trent Water,2024-25,ffo_net_debt,7.9,%,MFR2425,WaSC
+Severn Trent Water,2024-25,aicr,1.2,x,MFR2425,WaSC
+Severn Trent Water,2024-25,rore,8.96,%,MFR2425,WaSC
+Severn Trent Water,2024-25,dividend_yield,3.8,%,MFR2425,WaSC
+Severn Trent Water,2024-25,derivatives_mtm_pct_rcv,-0.1,%,MFR2425,WaSC
+Severn Trent Water,2024-25,credit_rating,BBB+/Baa1 Stable,text,MFR2425,WaSC
+Anglian Water,2024-25,rcv,11220.0,GBPm,MFR2425,WaSC
+Anglian Water,2024-25,regulatory_gearing,71.8,%,MFR2425,WaSC
+Anglian Water,2024-25,ffo_net_debt,8.1,%,MFR2425,WaSC
+Anglian Water,2024-25,aicr,1.53,x,MFR2425,WaSC
+Anglian Water,2024-25,rore,-2.91,%,MFR2425,WaSC
+Anglian Water,2024-25,dividend_yield,2.8,%,MFR2425,WaSC
+Anglian Water,2024-25,derivatives_mtm_pct_rcv,5.5,%,MFR2425,WaSC
+Anglian Water,2024-25,credit_rating,BBB Stable,text,MFR2425,WaSC
+Yorkshire Water,2024-25,rcv,9475.0,GBPm,MFR2425,WaSC
+Yorkshire Water,2024-25,regulatory_gearing,70.3,%,MFR2425,WaSC
+Yorkshire Water,2024-25,ffo_net_debt,7.4,%,MFR2425,WaSC
+Yorkshire Water,2024-25,aicr,1.85,x,MFR2425,WaSC
+Yorkshire Water,2024-25,rore,2.52,%,MFR2425,WaSC
+Yorkshire Water,2024-25,dividend_yield,1.9,%,MFR2425,WaSC
+Yorkshire Water,2024-25,derivatives_mtm_pct_rcv,15.2,%,MFR2425,WaSC
+Yorkshire Water,2024-25,credit_rating,Baa2 Stable,text,MFR2425,WaSC
+Dwr Cymru (Welsh Water),2024-25,rcv,7723.0,GBPm,MFR2425,WaSC
+Dwr Cymru (Welsh Water),2024-25,regulatory_gearing,62.8,%,MFR2425,WaSC
+Dwr Cymru (Welsh Water),2024-25,ffo_net_debt,5.9,%,MFR2425,WaSC
+Dwr Cymru (Welsh Water),2024-25,aicr,0.63,x,MFR2425,WaSC
+Dwr Cymru (Welsh Water),2024-25,rore,-4.24,%,MFR2425,WaSC
+Dwr Cymru (Welsh Water),2024-25,dividend_yield,0.0,%,MFR2425,WaSC
+Dwr Cymru (Welsh Water),2024-25,derivatives_mtm_pct_rcv,4.5,%,MFR2425,WaSC
+Dwr Cymru (Welsh Water),2024-25,credit_rating,BBB+ Negative,text,MFR2425,WaSC
+Southern Water,2024-25,rcv,7450.0,GBPm,MFR2425,WaSC
+Southern Water,2024-25,regulatory_gearing,77.0,%,MFR2425,WaSC
+Southern Water,2024-25,ffo_net_debt,3.3,%,MFR2425,WaSC
+Southern Water,2024-25,aicr,-0.2,x,MFR2425,WaSC
+Southern Water,2024-25,rore,-12.58,%,MFR2425,WaSC
+Southern Water,2024-25,dividend_yield,0.0,%,MFR2425,WaSC
+Southern Water,2024-25,derivatives_mtm_pct_rcv,20.0,%,MFR2425,WaSC
+Southern Water,2024-25,credit_rating,Ba1 Under Review,text,MFR2425,WaSC
+Northumbrian Water,2024-25,rcv,5805.0,GBPm,MFR2425,WaSC
+Northumbrian Water,2024-25,regulatory_gearing,72.4,%,MFR2425,WaSC
+Northumbrian Water,2024-25,ffo_net_debt,6.6,%,MFR2425,WaSC
+Northumbrian Water,2024-25,aicr,1.0,x,MFR2425,WaSC
+Northumbrian Water,2024-25,rore,-2.64,%,MFR2425,WaSC
+Northumbrian Water,2024-25,dividend_yield,2.5,%,MFR2425,WaSC
+Northumbrian Water,2024-25,derivatives_mtm_pct_rcv,2.1,%,MFR2425,WaSC
+Northumbrian Water,2024-25,credit_rating,BBB+/Baa1 Negative,text,MFR2425,WaSC
+South West Water,2024-25,rcv,5548.0,GBPm,MFR2425,WaSC
+South West Water,2024-25,regulatory_gearing,64.2,%,MFR2425,WaSC
+South West Water,2024-25,ffo_net_debt,4.4,%,MFR2425,WaSC
+South West Water,2024-25,aicr,0.23,x,MFR2425,WaSC
+South West Water,2024-25,dividend_yield,0.0,%,MFR2425,WaSC
+South West Water,2024-25,derivatives_mtm_pct_rcv,-0.5,%,MFR2425,WaSC
+South West Water,2024-25,credit_rating,Baa1 Negative,text,MFR2425,WaSC
+Wessex Water,2024-25,rcv,4568.0,GBPm,MFR2425,WaSC
+Wessex Water,2024-25,regulatory_gearing,71.9,%,MFR2425,WaSC
+Wessex Water,2024-25,ffo_net_debt,5.8,%,MFR2425,WaSC
+Wessex Water,2024-25,aicr,0.96,x,MFR2425,WaSC
+Wessex Water,2024-25,rore,0.54,%,MFR2425,WaSC
+Wessex Water,2024-25,dividend_yield,5.2,%,MFR2425,WaSC
+Wessex Water,2024-25,derivatives_mtm_pct_rcv,0.0,%,MFR2425,WaSC
+Wessex Water,2024-25,credit_rating,BBB+/Baa1 Negative,text,MFR2425,WaSC
+Hafren Dyfrdwy,2024-25,rcv,139.0,GBPm,MFR2425,WaSC
+Hafren Dyfrdwy,2024-25,regulatory_gearing,62.8,%,MFR2425,WaSC
+Hafren Dyfrdwy,2024-25,ffo_net_debt,4.0,%,MFR2425,WaSC
+Hafren Dyfrdwy,2024-25,aicr,-0.17,x,MFR2425,WaSC
+Hafren Dyfrdwy,2024-25,rore,-2.76,%,MFR2425,WaSC
+Hafren Dyfrdwy,2024-25,dividend_yield,0.0,%,MFR2425,WaSC
+Hafren Dyfrdwy,2024-25,derivatives_mtm_pct_rcv,0.0,%,MFR2425,WaSC
+Hafren Dyfrdwy,2024-25,credit_rating,BBB+ Stable,text,MFR2425,WaSC
+Affinity Water,2024-25,rcv,1920.0,GBPm,MFR2425,WoC
+Affinity Water,2024-25,regulatory_gearing,81.0,%,MFR2425,WoC
+Affinity Water,2024-25,ffo_net_debt,4.2,%,MFR2425,WoC
+Affinity Water,2024-25,aicr,0.18,x,MFR2425,WoC
+Affinity Water,2024-25,rore,0.44,%,MFR2425,WoC
+Affinity Water,2024-25,dividend_yield,0.0,%,MFR2425,WoC
+Affinity Water,2024-25,derivatives_mtm_pct_rcv,6.9,%,MFR2425,WoC
+Affinity Water,2024-25,credit_rating,BBB+ Negative,text,MFR2425,WoC
+South East Water,2024-25,rcv,1816.0,GBPm,MFR2425,WoC
+South East Water,2024-25,regulatory_gearing,75.2,%,MFR2425,WoC
+South East Water,2024-25,ffo_net_debt,4.5,%,MFR2425,WoC
+South East Water,2024-25,aicr,0.89,x,MFR2425,WoC
+South East Water,2024-25,rore,-5.74,%,MFR2425,WoC
+South East Water,2024-25,dividend_yield,0.0,%,MFR2425,WoC
+South East Water,2024-25,derivatives_mtm_pct_rcv,0.0,%,MFR2425,WoC
+South East Water,2024-25,credit_rating,BBB- Watch Negative,text,MFR2425,WoC
+South Staffs Water,2024-25,rcv,581.0,GBPm,MFR2425,WoC
+South Staffs Water,2024-25,regulatory_gearing,66.6,%,MFR2425,WoC
+South Staffs Water,2024-25,ffo_net_debt,11.4,%,MFR2425,WoC
+South Staffs Water,2024-25,aicr,1.46,x,MFR2425,WoC
+South Staffs Water,2024-25,rore,-1.14,%,MFR2425,WoC
+South Staffs Water,2024-25,dividend_yield,2.6,%,MFR2425,WoC
+South Staffs Water,2024-25,derivatives_mtm_pct_rcv,-0.1,%,MFR2425,WoC
+South Staffs Water,2024-25,credit_rating,Baa2 Stable,text,MFR2425,WoC
+Portsmouth Water,2024-25,rcv,547.0,GBPm,MFR2425,WoC
+Portsmouth Water,2024-25,regulatory_gearing,38.1,%,MFR2425,WoC
+Portsmouth Water,2024-25,ffo_net_debt,4.5,%,MFR2425,WoC
+Portsmouth Water,2024-25,aicr,0.94,x,MFR2425,WoC
+Portsmouth Water,2024-25,rore,4.15,%,MFR2425,WoC
+Portsmouth Water,2024-25,dividend_yield,1.0,%,MFR2425,WoC
+Portsmouth Water,2024-25,derivatives_mtm_pct_rcv,0.1,%,MFR2425,WoC
+Portsmouth Water,2024-25,credit_rating,Baa2 Stable,text,MFR2425,WoC
+SES Water,2024-25,rcv,368.0,GBPm,MFR2425,WoC
+SES Water,2024-25,regulatory_gearing,59.8,%,MFR2425,WoC
+SES Water,2024-25,ffo_net_debt,9.1,%,MFR2425,WoC
+SES Water,2024-25,aicr,0.32,x,MFR2425,WoC
+SES Water,2024-25,rore,-6.6,%,MFR2425,WoC
+SES Water,2024-25,dividend_yield,0.0,%,MFR2425,WoC
+SES Water,2024-25,derivatives_mtm_pct_rcv,0.0,%,MFR2425,WoC
+SES Water,2024-25,credit_rating,Baa1 Negative,text,MFR2425,WoC
+Thames Water,2025-26,rcv,22725.0,GBPm,MFR2526,WaSC
+Thames Water,2025-26,regulatory_gearing,86.2,%,MFR2526,WaSC
+Thames Water,2025-26,ffo_net_debt,5.1,%,MFR2526,WaSC
+Thames Water,2025-26,aicr,1.13,x,MFR2526,WaSC
+Thames Water,2025-26,rore,-1.5,%,MFR2526,WaSC
+Thames Water,2025-26,dividend_yield,0.0,%,MFR2526,WaSC
+Thames Water,2025-26,derivatives_mtm_pct_rcv,6.7,%,MFR2526,WaSC
+Thames Water,2025-26,credit_rating,Caa3 Stable,text,MFR2526,WaSC
+United Utilities,2025-26,rcv,16487.0,GBPm,MFR2526,WaSC
+United Utilities,2025-26,regulatory_gearing,63.4,%,MFR2526,WaSC
+United Utilities,2025-26,ffo_net_debt,13.2,%,MFR2526,WaSC
+United Utilities,2025-26,aicr,3.08,x,MFR2526,WaSC
+United Utilities,2025-26,rore,7.52,%,MFR2526,WaSC
+United Utilities,2025-26,dividend_yield,4.1,%,MFR2526,WaSC
+United Utilities,2025-26,derivatives_mtm_pct_rcv,-0.2,%,MFR2526,WaSC
+United Utilities,2025-26,credit_rating,BBB+/Baa1 Stable,text,MFR2526,WaSC
+Severn Trent Water,2025-26,rcv,15203.0,GBPm,MFR2526,WaSC
+Severn Trent Water,2025-26,regulatory_gearing,63.4,%,MFR2526,WaSC
+Severn Trent Water,2025-26,ffo_net_debt,9.6,%,MFR2526,WaSC
+Severn Trent Water,2025-26,aicr,1.71,x,MFR2526,WaSC
+Severn Trent Water,2025-26,rore,9.31,%,MFR2526,WaSC
+Severn Trent Water,2025-26,dividend_yield,2.7,%,MFR2526,WaSC
+Severn Trent Water,2025-26,derivatives_mtm_pct_rcv,-0.2,%,MFR2526,WaSC
+Severn Trent Water,2025-26,credit_rating,BBB+/Baa1 Stable,text,MFR2526,WaSC
+Anglian Water,2025-26,rcv,12243.0,GBPm,MFR2526,WaSC
+Anglian Water,2025-26,regulatory_gearing,70.3,%,MFR2526,WaSC
+Anglian Water,2025-26,ffo_net_debt,8.8,%,MFR2526,WaSC
+Anglian Water,2025-26,aicr,1.77,x,MFR2526,WaSC
+Anglian Water,2025-26,rore,3.79,%,MFR2526,WaSC
+Anglian Water,2025-26,dividend_yield,2.1,%,MFR2526,WaSC
+Anglian Water,2025-26,derivatives_mtm_pct_rcv,5.8,%,MFR2526,WaSC
+Anglian Water,2025-26,credit_rating,Baa1 Stable,text,MFR2526,WaSC
+Yorkshire Water,2025-26,rcv,10424.0,GBPm,MFR2526,WaSC
+Yorkshire Water,2025-26,regulatory_gearing,71.0,%,MFR2526,WaSC
+Yorkshire Water,2025-26,ffo_net_debt,8.6,%,MFR2526,WaSC
+Yorkshire Water,2025-26,aicr,1.83,x,MFR2526,WaSC
+Yorkshire Water,2025-26,rore,5.08,%,MFR2526,WaSC
+Yorkshire Water,2025-26,dividend_yield,2.8,%,MFR2526,WaSC
+Yorkshire Water,2025-26,derivatives_mtm_pct_rcv,14.2,%,MFR2526,WaSC
+Yorkshire Water,2025-26,credit_rating,Baa2 Stable,text,MFR2526,WaSC
+Dwr Cymru (Welsh Water),2025-26,rcv,8345.0,GBPm,MFR2526,WaSC
+Dwr Cymru (Welsh Water),2025-26,regulatory_gearing,60.5,%,MFR2526,WaSC
+Dwr Cymru (Welsh Water),2025-26,ffo_net_debt,9.7,%,MFR2526,WaSC
+Dwr Cymru (Welsh Water),2025-26,aicr,1.89,x,MFR2526,WaSC
+Dwr Cymru (Welsh Water),2025-26,rore,4.04,%,MFR2526,WaSC
+Dwr Cymru (Welsh Water),2025-26,dividend_yield,0.0,%,MFR2526,WaSC
+Dwr Cymru (Welsh Water),2025-26,derivatives_mtm_pct_rcv,3.8,%,MFR2526,WaSC
+Dwr Cymru (Welsh Water),2025-26,credit_rating,BBB+ Negative,text,MFR2526,WaSC
+Southern Water,2025-26,rcv,8392.0,GBPm,MFR2526,WaSC
+Southern Water,2025-26,regulatory_gearing,70.0,%,MFR2526,WaSC
+Southern Water,2025-26,ffo_net_debt,-0.9,%,MFR2526,WaSC
+Southern Water,2025-26,aicr,0.43,x,MFR2526,WaSC
+Southern Water,2025-26,rore,-3.2,%,MFR2526,WaSC
+Southern Water,2025-26,dividend_yield,0.0,%,MFR2526,WaSC
+Southern Water,2025-26,derivatives_mtm_pct_rcv,13.9,%,MFR2526,WaSC
+Southern Water,2025-26,credit_rating,Ba1 Stable,text,MFR2526,WaSC
+Northumbrian Water,2025-26,rcv,6620.0,GBPm,MFR2526,WaSC
+Northumbrian Water,2025-26,regulatory_gearing,61.3,%,MFR2526,WaSC
+Northumbrian Water,2025-26,ffo_net_debt,9.6,%,MFR2526,WaSC
+Northumbrian Water,2025-26,aicr,1.68,x,MFR2526,WaSC
+Northumbrian Water,2025-26,rore,5.76,%,MFR2526,WaSC
+Northumbrian Water,2025-26,dividend_yield,1.8,%,MFR2526,WaSC
+Northumbrian Water,2025-26,derivatives_mtm_pct_rcv,0.9,%,MFR2526,WaSC
+Northumbrian Water,2025-26,credit_rating,BBB+/Baa1 Negative,text,MFR2526,WaSC
+South West Water,2025-26,rcv,6072.0,GBPm,MFR2526,WaSC
+South West Water,2025-26,regulatory_gearing,63.6,%,MFR2526,WaSC
+South West Water,2025-26,ffo_net_debt,8.5,%,MFR2526,WaSC
+South West Water,2025-26,aicr,1.45,x,MFR2526,WaSC
+South West Water,2025-26,rore,4.78,%,MFR2526,WaSC
+South West Water,2025-26,dividend_yield,9.0,%,MFR2526,WaSC
+South West Water,2025-26,derivatives_mtm_pct_rcv,0.0,%,MFR2526,WaSC
+South West Water,2025-26,credit_rating,Baa1 Negative,text,MFR2526,WaSC
+Wessex Water,2025-26,rcv,4951.0,GBPm,MFR2526,WaSC
+Wessex Water,2025-26,regulatory_gearing,71.3,%,MFR2526,WaSC
+Wessex Water,2025-26,ffo_net_debt,8.2,%,MFR2526,WaSC
+Wessex Water,2025-26,aicr,1.87,x,MFR2526,WaSC
+Wessex Water,2025-26,rore,5.1,%,MFR2526,WaSC
+Wessex Water,2025-26,dividend_yield,0.0,%,MFR2526,WaSC
+Wessex Water,2025-26,derivatives_mtm_pct_rcv,0.0,%,MFR2526,WaSC
+Wessex Water,2025-26,credit_rating,BBB+/Baa1 Negative,text,MFR2526,WaSC
+Hafren Dyfrdwy,2025-26,rcv,164.0,GBPm,MFR2526,WaSC
+Hafren Dyfrdwy,2025-26,regulatory_gearing,57.9,%,MFR2526,WaSC
+Hafren Dyfrdwy,2025-26,ffo_net_debt,12.8,%,MFR2526,WaSC
+Hafren Dyfrdwy,2025-26,aicr,2.57,x,MFR2526,WaSC
+Hafren Dyfrdwy,2025-26,rore,-5.25,%,MFR2526,WaSC
+Hafren Dyfrdwy,2025-26,dividend_yield,0.0,%,MFR2526,WaSC
+Hafren Dyfrdwy,2025-26,derivatives_mtm_pct_rcv,0.0,%,MFR2526,WaSC
+Hafren Dyfrdwy,2025-26,credit_rating,BBB+ Stable,text,MFR2526,WaSC
+Affinity Water,2025-26,rcv,2098.0,GBPm,MFR2526,WoC
+Affinity Water,2025-26,regulatory_gearing,72.5,%,MFR2526,WoC
+Affinity Water,2025-26,ffo_net_debt,8.4,%,MFR2526,WoC
+Affinity Water,2025-26,aicr,2.07,x,MFR2526,WoC
+Affinity Water,2025-26,rore,5.9,%,MFR2526,WoC
+Affinity Water,2025-26,dividend_yield,6.0,%,MFR2526,WoC
+Affinity Water,2025-26,derivatives_mtm_pct_rcv,7.5,%,MFR2526,WoC
+Affinity Water,2025-26,credit_rating,BBB+ Negative,text,MFR2526,WoC
+South East Water,2025-26,rcv,2004.0,GBPm,MFR2526,WoC
+South East Water,2025-26,regulatory_gearing,66.5,%,MFR2526,WoC
+South East Water,2025-26,ffo_net_debt,4.6,%,MFR2526,WoC
+South East Water,2025-26,aicr,0.7,x,MFR2526,WoC
+South East Water,2025-26,rore,-2.14,%,MFR2526,WoC
+South East Water,2025-26,dividend_yield,0.0,%,MFR2526,WoC
+South East Water,2025-26,derivatives_mtm_pct_rcv,0.0,%,MFR2526,WoC
+South East Water,2025-26,credit_rating,Baa3/BBB- Negative,text,MFR2526,WoC
+South Staffs Water,2025-26,rcv,641.0,GBPm,MFR2526,WoC
+South Staffs Water,2025-26,regulatory_gearing,61.4,%,MFR2526,WoC
+South Staffs Water,2025-26,ffo_net_debt,17.0,%,MFR2526,WoC
+South Staffs Water,2025-26,aicr,3.38,x,MFR2526,WoC
+South Staffs Water,2025-26,rore,5.6,%,MFR2526,WoC
+South Staffs Water,2025-26,dividend_yield,2.4,%,MFR2526,WoC
+South Staffs Water,2025-26,derivatives_mtm_pct_rcv,0.0,%,MFR2526,WoC
+South Staffs Water,2025-26,credit_rating,Baa2 Stable,text,MFR2526,WoC
+Portsmouth Water,2025-26,rcv,642.0,GBPm,MFR2526,WoC
+Portsmouth Water,2025-26,regulatory_gearing,47.8,%,MFR2526,WoC
+Portsmouth Water,2025-26,ffo_net_debt,9.8,%,MFR2526,WoC
+Portsmouth Water,2025-26,aicr,2.32,x,MFR2526,WoC
+Portsmouth Water,2025-26,rore,4.24,%,MFR2526,WoC
+Portsmouth Water,2025-26,dividend_yield,0.9,%,MFR2526,WoC
+Portsmouth Water,2025-26,derivatives_mtm_pct_rcv,0.0,%,MFR2526,WoC
+Portsmouth Water,2025-26,credit_rating,Baa2 Stable,text,MFR2526,WoC
+SES Water,2025-26,rcv,389.0,GBPm,MFR2526,WoC
+SES Water,2025-26,regulatory_gearing,60.4,%,MFR2526,WoC
+SES Water,2025-26,ffo_net_debt,10.0,%,MFR2526,WoC
+SES Water,2025-26,aicr,1.62,x,MFR2526,WoC
+SES Water,2025-26,rore,4.15,%,MFR2526,WoC
+SES Water,2025-26,dividend_yield,0.0,%,MFR2526,WoC
+SES Water,2025-26,derivatives_mtm_pct_rcv,0.0,%,MFR2526,WoC
+SES Water,2025-26,credit_rating,Baa1 Negative,text,MFR2526,WoC
+Thames Water,2024-25,odi_net,-88.2,GBPm,TW-RES25,ODI penalty
